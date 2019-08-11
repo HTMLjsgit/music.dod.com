@@ -1,0 +1,74 @@
+ h1{
+	font-size:50px;
+	color: #5D99FF;
+	
+}
+
+
+
+button
+	{
+	cursor:pointer;
+	background:#00FF99;
+	width: 100px;
+}
+
+.buttons{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-right:30px;
+
+}
+.buttons > div{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	text-align: center;
+}
+
+#btn2,
+#btn4,
+#btn6,
+#btn8,
+#btn10,
+#btn12,
+#btn14,
+#btn16,
+#btn18,
+#btn20{
+	margin: 0 ;
+		
+	}
+	
+
+#pp{
+	color: red;
+	margin-bottom: 50px;
+}
+p{
+color:#9900FF;
+		margin:0;
+}
+
+
+
+body {
+	background: #DDDDDD	;
+	margin-left:450px;
+	
+}
+
+.koukaon{
+	margin-top:-260px;
+	margin-top:;
+}
+
+#pyouso{
+	margin-right:10px ;
+}
+
+#btn20{
+	margin:0;
+}
+
